@@ -1,8 +1,13 @@
+import java.lang.Math;
+
 public class meiosis {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public void Meiosis() {
 
+		System.out.println("");
+		System.out.println("------------------------------------------------------------------MEIOSIS------------------------------------------------------------------");
+		System.out.println("");
+		
 		int basePairs = 50;
 		String[] chromatidA1 = new String[basePairs];
 		String[] chromatidA2 = new String[basePairs];
